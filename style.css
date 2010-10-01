@@ -9,7 +9,7 @@ p, span {
 }
 
 #content {
-    margin-top: 150px;
+    margin-top: 100px;
     text-align: center;
 }
 
@@ -22,7 +22,7 @@ p, span {
 }
 
 #links {
-    width: 100%;
+    margin-bottom: 20px;
 }
 
 #links ul {
